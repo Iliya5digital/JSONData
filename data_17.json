@@ -1,0 +1,74 @@
+{
+    "webSettings": {
+        "divs": {
+            "div": {
+                "bodyDiv": {
+                    "_w:val": "1",
+                    "__prefix": "w"
+                },
+                "marLeft": {
+                    "_w:val": "0",
+                    "__prefix": "w"
+                },
+                "marRight": {
+                    "_w:val": "0",
+                    "__prefix": "w"
+                },
+                "marTop": {
+                    "_w:val": "0",
+                    "__prefix": "w"
+                },
+                "marBottom": {
+                    "_w:val": "0",
+                    "__prefix": "w"
+                },
+                "divBdr": {
+                    "top": {
+                        "_w:val": "none",
+                        "_w:sz": "0",
+                        "_w:space": "0",
+                        "_w:color": "auto",
+                        "__prefix": "w"
+                    },
+                    "left": {
+                        "_w:val": "none",
+                        "_w:sz": "0",
+                        "_w:space": "0",
+                        "_w:color": "auto",
+                        "__prefix": "w"
+                    },
+                    "bottom": {
+                        "_w:val": "none",
+                        "_w:sz": "0",
+                        "_w:space": "0",
+                        "_w:color": "auto",
+                        "__prefix": "w"
+                    },
+                    "right": {
+                        "_w:val": "none",
+                        "_w:sz": "0",
+                        "_w:space": "0",
+                        "_w:color": "auto",
+                        "__prefix": "w"
+                    },
+                    "__prefix": "w"
+                },
+                "_w:id": "718819048",
+                "__prefix": "w"
+            },
+            "__prefix": "w"
+        },
+        "optimizeForBrowser": {
+            "__prefix": "w"
+        },
+        "allowPNG": {
+            "__prefix": "w"
+        },
+        "_xmlns:mc": "http://schemas.openxmlformats.org/markup-compatibility/2006",
+        "_xmlns:r": "http://schemas.openxmlformats.org/officeDocument/2006/relationships",
+        "_xmlns:w": "http://schemas.openxmlformats.org/wordprocessingml/2006/main",
+        "_xmlns:w14": "http://schemas.microsoft.com/office/word/2010/wordml",
+        "_mc:Ignorable": "w14",
+        "__prefix": "w"
+    }
+}

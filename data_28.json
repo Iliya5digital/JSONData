@@ -1,0 +1,235 @@
+{
+    "fonts": {
+        "font": [
+            {
+                "panose1": {
+                    "_w:val": "02020603050405020304",
+                    "__prefix": "w"
+                },
+                "charset": {
+                    "_w:val": "CC",
+                    "__prefix": "w"
+                },
+                "family": {
+                    "_w:val": "roman",
+                    "__prefix": "w"
+                },
+                "pitch": {
+                    "_w:val": "variable",
+                    "__prefix": "w"
+                },
+                "sig": {
+                    "_w:usb0": "E0002EFF",
+                    "_w:usb1": "C000785B",
+                    "_w:usb2": "00000009",
+                    "_w:usb3": "00000000",
+                    "_w:csb0": "000001FF",
+                    "_w:csb1": "00000000",
+                    "__prefix": "w"
+                },
+                "_w:name": "Times New Roman",
+                "__prefix": "w"
+            },
+            {
+                "panose1": {
+                    "_w:val": "020B0604030504040204",
+                    "__prefix": "w"
+                },
+                "charset": {
+                    "_w:val": "CC",
+                    "__prefix": "w"
+                },
+                "family": {
+                    "_w:val": "swiss",
+                    "__prefix": "w"
+                },
+                "pitch": {
+                    "_w:val": "variable",
+                    "__prefix": "w"
+                },
+                "sig": {
+                    "_w:usb0": "E1002EFF",
+                    "_w:usb1": "C000605B",
+                    "_w:usb2": "00000029",
+                    "_w:usb3": "00000000",
+                    "_w:csb0": "000101FF",
+                    "_w:csb1": "00000000",
+                    "__prefix": "w"
+                },
+                "_w:name": "Tahoma",
+                "__prefix": "w"
+            },
+            {
+                "altName": {
+                    "_w:val": "Times New Roman",
+                    "__prefix": "w"
+                },
+                "charset": {
+                    "_w:val": "00",
+                    "__prefix": "w"
+                },
+                "family": {
+                    "_w:val": "auto",
+                    "__prefix": "w"
+                },
+                "pitch": {
+                    "_w:val": "variable",
+                    "__prefix": "w"
+                },
+                "sig": {
+                    "_w:usb0": "00000001",
+                    "_w:usb1": "00000000",
+                    "_w:usb2": "00000000",
+                    "_w:usb3": "00000000",
+                    "_w:csb0": "00000005",
+                    "_w:csb1": "00000000",
+                    "__prefix": "w"
+                },
+                "_w:name": "TimesET",
+                "__prefix": "w"
+            },
+            {
+                "panose1": {
+                    "_w:val": "020F0502020204030204",
+                    "__prefix": "w"
+                },
+                "charset": {
+                    "_w:val": "CC",
+                    "__prefix": "w"
+                },
+                "family": {
+                    "_w:val": "swiss",
+                    "__prefix": "w"
+                },
+                "pitch": {
+                    "_w:val": "variable",
+                    "__prefix": "w"
+                },
+                "sig": {
+                    "_w:usb0": "E0002AFF",
+                    "_w:usb1": "C000247B",
+                    "_w:usb2": "00000009",
+                    "_w:usb3": "00000000",
+                    "_w:csb0": "000001FF",
+                    "_w:csb1": "00000000",
+                    "__prefix": "w"
+                },
+                "_w:name": "Calibri",
+                "__prefix": "w"
+            },
+            {
+                "panose1": {
+                    "_w:val": "020B0604020202020204",
+                    "__prefix": "w"
+                },
+                "charset": {
+                    "_w:val": "CC",
+                    "__prefix": "w"
+                },
+                "family": {
+                    "_w:val": "swiss",
+                    "__prefix": "w"
+                },
+                "pitch": {
+                    "_w:val": "variable",
+                    "__prefix": "w"
+                },
+                "sig": {
+                    "_w:usb0": "E0002EFF",
+                    "_w:usb1": "C000785B",
+                    "_w:usb2": "00000009",
+                    "_w:usb3": "00000000",
+                    "_w:csb0": "000001FF",
+                    "_w:csb1": "00000000",
+                    "__prefix": "w"
+                },
+                "_w:name": "Arial",
+                "__prefix": "w"
+            },
+            {
+                "panose1": {
+                    "_w:val": "02070309020205020404",
+                    "__prefix": "w"
+                },
+                "charset": {
+                    "_w:val": "CC",
+                    "__prefix": "w"
+                },
+                "family": {
+                    "_w:val": "modern",
+                    "__prefix": "w"
+                },
+                "pitch": {
+                    "_w:val": "fixed",
+                    "__prefix": "w"
+                },
+                "sig": {
+                    "_w:usb0": "E0002EFF",
+                    "_w:usb1": "C0007843",
+                    "_w:usb2": "00000009",
+                    "_w:usb3": "00000000",
+                    "_w:csb0": "000001FF",
+                    "_w:csb1": "00000000",
+                    "__prefix": "w"
+                },
+                "_w:name": "Courier New",
+                "__prefix": "w"
+            },
+            {
+                "altName": {
+                    "_w:val": "Arial",
+                    "__prefix": "w"
+                },
+                "charset": {
+                    "_w:val": "01",
+                    "__prefix": "w"
+                },
+                "family": {
+                    "_w:val": "swiss",
+                    "__prefix": "w"
+                },
+                "pitch": {
+                    "_w:val": "variable",
+                    "__prefix": "w"
+                },
+                "_w:name": "Arial MT",
+                "__prefix": "w"
+            },
+            {
+                "panose1": {
+                    "_w:val": "02040503050406030204",
+                    "__prefix": "w"
+                },
+                "charset": {
+                    "_w:val": "CC",
+                    "__prefix": "w"
+                },
+                "family": {
+                    "_w:val": "roman",
+                    "__prefix": "w"
+                },
+                "pitch": {
+                    "_w:val": "variable",
+                    "__prefix": "w"
+                },
+                "sig": {
+                    "_w:usb0": "E00006FF",
+                    "_w:usb1": "420024FF",
+                    "_w:usb2": "02000000",
+                    "_w:usb3": "00000000",
+                    "_w:csb0": "0000019F",
+                    "_w:csb1": "00000000",
+                    "__prefix": "w"
+                },
+                "_w:name": "Cambria",
+                "__prefix": "w"
+            }
+        ],
+        "_xmlns:mc": "http://schemas.openxmlformats.org/markup-compatibility/2006",
+        "_xmlns:r": "http://schemas.openxmlformats.org/officeDocument/2006/relationships",
+        "_xmlns:w": "http://schemas.openxmlformats.org/wordprocessingml/2006/main",
+        "_xmlns:w14": "http://schemas.microsoft.com/office/word/2010/wordml",
+        "_mc:Ignorable": "w14",
+        "__prefix": "w"
+    }
+}

@@ -1,0 +1,201 @@
+{
+    "hdr": {
+        "sdt": {
+            "sdtPr": {
+                "id": {
+                    "_w:val": "-487168143",
+                    "__prefix": "w"
+                },
+                "docPartObj": {
+                    "docPartGallery": {
+                        "_w:val": "Page Numbers (Top of Page)",
+                        "__prefix": "w"
+                    },
+                    "docPartUnique": {
+                        "__prefix": "w"
+                    },
+                    "__prefix": "w"
+                },
+                "__prefix": "w"
+            },
+            "sdtEndPr": {
+                "rPr": {
+                    "sz": {
+                        "_w:val": "28",
+                        "__prefix": "w"
+                    },
+                    "szCs": {
+                        "_w:val": "28",
+                        "__prefix": "w"
+                    },
+                    "__prefix": "w"
+                },
+                "__prefix": "w"
+            },
+            "sdtContent": {
+                "p": {
+                    "pPr": {
+                        "pStyle": {
+                            "_w:val": "a6",
+                            "__prefix": "w"
+                        },
+                        "jc": {
+                            "_w:val": "center",
+                            "__prefix": "w"
+                        },
+                        "rPr": {
+                            "sz": {
+                                "_w:val": "28",
+                                "__prefix": "w"
+                            },
+                            "szCs": {
+                                "_w:val": "28",
+                                "__prefix": "w"
+                            },
+                            "__prefix": "w"
+                        },
+                        "__prefix": "w"
+                    },
+                    "r": [
+                        {
+                            "rPr": {
+                                "sz": {
+                                    "_w:val": "28",
+                                    "__prefix": "w"
+                                },
+                                "szCs": {
+                                    "_w:val": "28",
+                                    "__prefix": "w"
+                                },
+                                "__prefix": "w"
+                            },
+                            "fldChar": {
+                                "_w:fldCharType": "begin",
+                                "__prefix": "w"
+                            },
+                            "_w:rsidRPr": "00F402CF",
+                            "__prefix": "w"
+                        },
+                        {
+                            "rPr": {
+                                "sz": {
+                                    "_w:val": "28",
+                                    "__prefix": "w"
+                                },
+                                "szCs": {
+                                    "_w:val": "28",
+                                    "__prefix": "w"
+                                },
+                                "__prefix": "w"
+                            },
+                            "instrText": {
+                                "__prefix": "w",
+                                "__text": "PAGE   \\* MERGEFORMAT"
+                            },
+                            "_w:rsidRPr": "00F402CF",
+                            "__prefix": "w"
+                        },
+                        {
+                            "rPr": {
+                                "sz": {
+                                    "_w:val": "28",
+                                    "__prefix": "w"
+                                },
+                                "szCs": {
+                                    "_w:val": "28",
+                                    "__prefix": "w"
+                                },
+                                "__prefix": "w"
+                            },
+                            "fldChar": {
+                                "_w:fldCharType": "separate",
+                                "__prefix": "w"
+                            },
+                            "_w:rsidRPr": "00F402CF",
+                            "__prefix": "w"
+                        },
+                        {
+                            "rPr": {
+                                "noProof": {
+                                    "__prefix": "w"
+                                },
+                                "sz": {
+                                    "_w:val": "28",
+                                    "__prefix": "w"
+                                },
+                                "szCs": {
+                                    "_w:val": "28",
+                                    "__prefix": "w"
+                                },
+                                "__prefix": "w"
+                            },
+                            "t": {
+                                "__prefix": "w",
+                                "__text": "284"
+                            },
+                            "__prefix": "w"
+                        },
+                        {
+                            "rPr": {
+                                "sz": {
+                                    "_w:val": "28",
+                                    "__prefix": "w"
+                                },
+                                "szCs": {
+                                    "_w:val": "28",
+                                    "__prefix": "w"
+                                },
+                                "__prefix": "w"
+                            },
+                            "fldChar": {
+                                "_w:fldCharType": "end",
+                                "__prefix": "w"
+                            },
+                            "_w:rsidRPr": "00F402CF",
+                            "__prefix": "w"
+                        }
+                    ],
+                    "_w14:paraId": "1422DD46",
+                    "_w14:textId": "77777777",
+                    "_w:rsidR": "00305FC1",
+                    "_w:rsidRPr": "00F402CF",
+                    "_w:rsidRDefault": "00305FC1",
+                    "__prefix": "w"
+                },
+                "__prefix": "w"
+            },
+            "__prefix": "w"
+        },
+        "p": {
+            "pPr": {
+                "pStyle": {
+                    "_w:val": "a6",
+                    "__prefix": "w"
+                },
+                "__prefix": "w"
+            },
+            "_w14:paraId": "188F756A",
+            "_w14:textId": "77777777",
+            "_w:rsidR": "00305FC1",
+            "_w:rsidRDefault": "00305FC1",
+            "__prefix": "w"
+        },
+        "_xmlns:wpc": "http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas",
+        "_xmlns:mc": "http://schemas.openxmlformats.org/markup-compatibility/2006",
+        "_xmlns:o": "urn:schemas-microsoft-com:office:office",
+        "_xmlns:r": "http://schemas.openxmlformats.org/officeDocument/2006/relationships",
+        "_xmlns:m": "http://schemas.openxmlformats.org/officeDocument/2006/math",
+        "_xmlns:v": "urn:schemas-microsoft-com:vml",
+        "_xmlns:wp14": "http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing",
+        "_xmlns:wp": "http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing",
+        "_xmlns:w10": "urn:schemas-microsoft-com:office:word",
+        "_xmlns:w": "http://schemas.openxmlformats.org/wordprocessingml/2006/main",
+        "_xmlns:w14": "http://schemas.microsoft.com/office/word/2010/wordml",
+        "_xmlns:wpg": "http://schemas.microsoft.com/office/word/2010/wordprocessingGroup",
+        "_xmlns:wpi": "http://schemas.microsoft.com/office/word/2010/wordprocessingInk",
+        "_xmlns:wne": "http://schemas.microsoft.com/office/word/2006/wordml",
+        "_xmlns:wps": "http://schemas.microsoft.com/office/word/2010/wordprocessingShape",
+        "_mc:Ignorable": "w14 wp14",
+        "__prefix": "w"
+    }
+}

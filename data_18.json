@@ -1,0 +1,2909 @@
+{
+    "styles": {
+        "docDefaults": {
+            "rPrDefault": {
+                "rPr": {
+                    "rFonts": {
+                        "_w:ascii": "Times New Roman",
+                        "_w:eastAsia": "Times New Roman",
+                        "_w:hAnsi": "Times New Roman",
+                        "_w:cs": "Times New Roman",
+                        "__prefix": "w"
+                    },
+                    "lang": {
+                        "_w:val": "ru-RU",
+                        "_w:eastAsia": "ru-RU",
+                        "_w:bidi": "ar-SA",
+                        "__prefix": "w"
+                    },
+                    "__prefix": "w"
+                },
+                "__prefix": "w"
+            },
+            "pPrDefault": {
+                "__prefix": "w"
+            },
+            "__prefix": "w"
+        },
+        "latentStyles": {
+            "lsdException": [
+                {
+                    "_w:name": "Normal",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "0",
+                    "_w:unhideWhenUsed": "0",
+                    "_w:qFormat": "1",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "heading 1",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "9",
+                    "_w:unhideWhenUsed": "0",
+                    "_w:qFormat": "1",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "heading 2",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "9",
+                    "_w:unhideWhenUsed": "0",
+                    "_w:qFormat": "1",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "heading 3",
+                    "_w:uiPriority": "9",
+                    "_w:qFormat": "1",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "heading 4",
+                    "_w:uiPriority": "9",
+                    "_w:qFormat": "1",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "heading 5",
+                    "_w:uiPriority": "9",
+                    "_w:qFormat": "1",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "heading 6",
+                    "_w:uiPriority": "9",
+                    "_w:qFormat": "1",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "heading 7",
+                    "_w:uiPriority": "9",
+                    "_w:qFormat": "1",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "heading 8",
+                    "_w:uiPriority": "9",
+                    "_w:qFormat": "1",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "heading 9",
+                    "_w:uiPriority": "9",
+                    "_w:qFormat": "1",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "toc 1",
+                    "_w:uiPriority": "39",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "toc 2",
+                    "_w:uiPriority": "39",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "toc 3",
+                    "_w:uiPriority": "39",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "toc 4",
+                    "_w:uiPriority": "39",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "toc 5",
+                    "_w:uiPriority": "39",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "toc 6",
+                    "_w:uiPriority": "39",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "toc 7",
+                    "_w:uiPriority": "39",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "toc 8",
+                    "_w:uiPriority": "39",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "toc 9",
+                    "_w:uiPriority": "39",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Normal Indent",
+                    "_w:uiPriority": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "footer",
+                    "_w:uiPriority": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "caption",
+                    "_w:uiPriority": "35",
+                    "_w:qFormat": "1",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Title",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "10",
+                    "_w:unhideWhenUsed": "0",
+                    "_w:qFormat": "1",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Default Paragraph Font",
+                    "_w:uiPriority": "1",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Subtitle",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "11",
+                    "_w:unhideWhenUsed": "0",
+                    "_w:qFormat": "1",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Body Text Indent 3",
+                    "_w:uiPriority": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Strong",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "22",
+                    "_w:unhideWhenUsed": "0",
+                    "_w:qFormat": "1",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Emphasis",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "20",
+                    "_w:unhideWhenUsed": "0",
+                    "_w:qFormat": "1",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Table Grid",
+                    "_w:uiPriority": "59",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Placeholder Text",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "No Spacing",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "1",
+                    "_w:unhideWhenUsed": "0",
+                    "_w:qFormat": "1",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Light Shading",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "60",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Light List",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "61",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Light Grid",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "62",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Medium Shading 1",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "63",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Medium Shading 2",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "64",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Medium List 1",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "65",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Medium List 2",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "66",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Medium Grid 1",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "67",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Medium Grid 2",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "68",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Medium Grid 3",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "69",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Dark List",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "70",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Colorful Shading",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "71",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Colorful List",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "72",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Colorful Grid",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "73",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Light Shading Accent 1",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "60",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Light List Accent 1",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "61",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Light Grid Accent 1",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "62",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Medium Shading 1 Accent 1",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "63",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Medium Shading 2 Accent 1",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "64",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Medium List 1 Accent 1",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "65",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Revision",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "List Paragraph",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "34",
+                    "_w:unhideWhenUsed": "0",
+                    "_w:qFormat": "1",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Quote",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "29",
+                    "_w:unhideWhenUsed": "0",
+                    "_w:qFormat": "1",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Intense Quote",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "30",
+                    "_w:unhideWhenUsed": "0",
+                    "_w:qFormat": "1",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Medium List 2 Accent 1",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "66",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Medium Grid 1 Accent 1",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "67",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Medium Grid 2 Accent 1",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "68",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Medium Grid 3 Accent 1",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "69",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Dark List Accent 1",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "70",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Colorful Shading Accent 1",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "71",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Colorful List Accent 1",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "72",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Colorful Grid Accent 1",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "73",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Light Shading Accent 2",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "60",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Light List Accent 2",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "61",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Light Grid Accent 2",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "62",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Medium Shading 1 Accent 2",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "63",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Medium Shading 2 Accent 2",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "64",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Medium List 1 Accent 2",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "65",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Medium List 2 Accent 2",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "66",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Medium Grid 1 Accent 2",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "67",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Medium Grid 2 Accent 2",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "68",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Medium Grid 3 Accent 2",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "69",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Dark List Accent 2",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "70",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Colorful Shading Accent 2",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "71",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Colorful List Accent 2",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "72",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Colorful Grid Accent 2",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "73",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Light Shading Accent 3",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "60",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Light List Accent 3",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "61",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Light Grid Accent 3",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "62",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Medium Shading 1 Accent 3",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "63",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Medium Shading 2 Accent 3",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "64",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Medium List 1 Accent 3",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "65",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Medium List 2 Accent 3",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "66",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Medium Grid 1 Accent 3",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "67",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Medium Grid 2 Accent 3",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "68",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Medium Grid 3 Accent 3",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "69",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Dark List Accent 3",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "70",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Colorful Shading Accent 3",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "71",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Colorful List Accent 3",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "72",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Colorful Grid Accent 3",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "73",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Light Shading Accent 4",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "60",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Light List Accent 4",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "61",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Light Grid Accent 4",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "62",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Medium Shading 1 Accent 4",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "63",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Medium Shading 2 Accent 4",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "64",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Medium List 1 Accent 4",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "65",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Medium List 2 Accent 4",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "66",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Medium Grid 1 Accent 4",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "67",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Medium Grid 2 Accent 4",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "68",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Medium Grid 3 Accent 4",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "69",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Dark List Accent 4",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "70",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Colorful Shading Accent 4",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "71",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Colorful List Accent 4",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "72",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Colorful Grid Accent 4",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "73",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Light Shading Accent 5",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "60",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Light List Accent 5",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "61",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Light Grid Accent 5",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "62",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Medium Shading 1 Accent 5",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "63",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Medium Shading 2 Accent 5",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "64",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Medium List 1 Accent 5",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "65",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Medium List 2 Accent 5",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "66",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Medium Grid 1 Accent 5",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "67",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Medium Grid 2 Accent 5",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "68",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Medium Grid 3 Accent 5",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "69",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Dark List Accent 5",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "70",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Colorful Shading Accent 5",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "71",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Colorful List Accent 5",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "72",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Colorful Grid Accent 5",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "73",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Light Shading Accent 6",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "60",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Light List Accent 6",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "61",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Light Grid Accent 6",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "62",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Medium Shading 1 Accent 6",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "63",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Medium Shading 2 Accent 6",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "64",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Medium List 1 Accent 6",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "65",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Medium List 2 Accent 6",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "66",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Medium Grid 1 Accent 6",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "67",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Medium Grid 2 Accent 6",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "68",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Medium Grid 3 Accent 6",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "69",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Dark List Accent 6",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "70",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Colorful Shading Accent 6",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "71",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Colorful List Accent 6",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "72",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Colorful Grid Accent 6",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "73",
+                    "_w:unhideWhenUsed": "0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Subtle Emphasis",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "19",
+                    "_w:unhideWhenUsed": "0",
+                    "_w:qFormat": "1",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Intense Emphasis",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "21",
+                    "_w:unhideWhenUsed": "0",
+                    "_w:qFormat": "1",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Subtle Reference",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "31",
+                    "_w:unhideWhenUsed": "0",
+                    "_w:qFormat": "1",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Intense Reference",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "32",
+                    "_w:unhideWhenUsed": "0",
+                    "_w:qFormat": "1",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Book Title",
+                    "_w:semiHidden": "0",
+                    "_w:uiPriority": "33",
+                    "_w:unhideWhenUsed": "0",
+                    "_w:qFormat": "1",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "Bibliography",
+                    "_w:uiPriority": "37",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "TOC Heading",
+                    "_w:uiPriority": "39",
+                    "_w:qFormat": "1",
+                    "__prefix": "w"
+                }
+            ],
+            "_w:defLockedState": "0",
+            "_w:defUIPriority": "99",
+            "_w:defSemiHidden": "1",
+            "_w:defUnhideWhenUsed": "1",
+            "_w:defQFormat": "0",
+            "_w:count": "267",
+            "__prefix": "w"
+        },
+        "style": [
+            {
+                "name": {
+                    "_w:val": "Normal",
+                    "__prefix": "w"
+                },
+                "qFormat": {
+                    "__prefix": "w"
+                },
+                "_w:type": "paragraph",
+                "_w:default": "1",
+                "_w:styleId": "a",
+                "__prefix": "w"
+            },
+            {
+                "name": {
+                    "_w:val": "heading 1",
+                    "__prefix": "w"
+                },
+                "basedOn": {
+                    "_w:val": "a",
+                    "__prefix": "w"
+                },
+                "next": {
+                    "_w:val": "a",
+                    "__prefix": "w"
+                },
+                "qFormat": {
+                    "__prefix": "w"
+                },
+                "pPr": {
+                    "keepNext": {
+                        "__prefix": "w"
+                    },
+                    "spacing": {
+                        "_w:before": "80",
+                        "__prefix": "w"
+                    },
+                    "jc": {
+                        "_w:val": "center",
+                        "__prefix": "w"
+                    },
+                    "outlineLvl": {
+                        "_w:val": "0",
+                        "__prefix": "w"
+                    },
+                    "__prefix": "w"
+                },
+                "rPr": {
+                    "b": {
+                        "__prefix": "w"
+                    },
+                    "spacing": {
+                        "_w:val": "20",
+                        "__prefix": "w"
+                    },
+                    "sz": {
+                        "_w:val": "24",
+                        "__prefix": "w"
+                    },
+                    "__prefix": "w"
+                },
+                "_w:type": "paragraph",
+                "_w:styleId": "1",
+                "__prefix": "w"
+            },
+            {
+                "name": {
+                    "_w:val": "heading 2",
+                    "__prefix": "w"
+                },
+                "basedOn": {
+                    "_w:val": "a",
+                    "__prefix": "w"
+                },
+                "next": {
+                    "_w:val": "a",
+                    "__prefix": "w"
+                },
+                "qFormat": {
+                    "__prefix": "w"
+                },
+                "pPr": {
+                    "keepNext": {
+                        "__prefix": "w"
+                    },
+                    "tabs": {
+                        "tab": {
+                            "_w:val": "left",
+                            "_w:pos": "6237",
+                            "__prefix": "w"
+                        },
+                        "__prefix": "w"
+                    },
+                    "spacing": {
+                        "_w:before": "120",
+                        "_w:after": "120",
+                        "__prefix": "w"
+                    },
+                    "jc": {
+                        "_w:val": "center",
+                        "__prefix": "w"
+                    },
+                    "outlineLvl": {
+                        "_w:val": "1",
+                        "__prefix": "w"
+                    },
+                    "__prefix": "w"
+                },
+                "rPr": {
+                    "sz": {
+                        "_w:val": "18",
+                        "__prefix": "w"
+                    },
+                    "__prefix": "w"
+                },
+                "_w:type": "paragraph",
+                "_w:styleId": "2",
+                "__prefix": "w"
+            },
+            {
+                "name": {
+                    "_w:val": "Default Paragraph Font",
+                    "__prefix": "w"
+                },
+                "uiPriority": {
+                    "_w:val": "1",
+                    "__prefix": "w"
+                },
+                "semiHidden": {
+                    "__prefix": "w"
+                },
+                "unhideWhenUsed": {
+                    "__prefix": "w"
+                },
+                "_w:type": "character",
+                "_w:default": "1",
+                "_w:styleId": "a0",
+                "__prefix": "w"
+            },
+            {
+                "name": {
+                    "_w:val": "Normal Table",
+                    "__prefix": "w"
+                },
+                "uiPriority": {
+                    "_w:val": "99",
+                    "__prefix": "w"
+                },
+                "semiHidden": {
+                    "__prefix": "w"
+                },
+                "unhideWhenUsed": {
+                    "__prefix": "w"
+                },
+                "tblPr": {
+                    "tblInd": {
+                        "_w:w": "0",
+                        "_w:type": "dxa",
+                        "__prefix": "w"
+                    },
+                    "tblCellMar": {
+                        "top": {
+                            "_w:w": "0",
+                            "_w:type": "dxa",
+                            "__prefix": "w"
+                        },
+                        "left": {
+                            "_w:w": "108",
+                            "_w:type": "dxa",
+                            "__prefix": "w"
+                        },
+                        "bottom": {
+                            "_w:w": "0",
+                            "_w:type": "dxa",
+                            "__prefix": "w"
+                        },
+                        "right": {
+                            "_w:w": "108",
+                            "_w:type": "dxa",
+                            "__prefix": "w"
+                        },
+                        "__prefix": "w"
+                    },
+                    "__prefix": "w"
+                },
+                "_w:type": "table",
+                "_w:default": "1",
+                "_w:styleId": "a1",
+                "__prefix": "w"
+            },
+            {
+                "name": {
+                    "_w:val": "No List",
+                    "__prefix": "w"
+                },
+                "uiPriority": {
+                    "_w:val": "99",
+                    "__prefix": "w"
+                },
+                "semiHidden": {
+                    "__prefix": "w"
+                },
+                "unhideWhenUsed": {
+                    "__prefix": "w"
+                },
+                "_w:type": "numbering",
+                "_w:default": "1",
+                "_w:styleId": "a2",
+                "__prefix": "w"
+            },
+            {
+                "name": {
+                    "_w:val": "footer",
+                    "__prefix": "w"
+                },
+                "basedOn": {
+                    "_w:val": "a",
+                    "__prefix": "w"
+                },
+                "link": {
+                    "_w:val": "a4",
+                    "__prefix": "w"
+                },
+                "semiHidden": {
+                    "__prefix": "w"
+                },
+                "pPr": {
+                    "tabs": {
+                        "tab": [
+                            {
+                                "_w:val": "center",
+                                "_w:pos": "4153",
+                                "__prefix": "w"
+                            },
+                            {
+                                "_w:val": "right",
+                                "_w:pos": "8306",
+                                "__prefix": "w"
+                            }
+                        ],
+                        "__prefix": "w"
+                    },
+                    "__prefix": "w"
+                },
+                "_w:type": "paragraph",
+                "_w:styleId": "a3",
+                "__prefix": "w"
+            },
+            {
+                "name": {
+                    "_w:val": "page number",
+                    "__prefix": "w"
+                },
+                "basedOn": {
+                    "_w:val": "a0",
+                    "__prefix": "w"
+                },
+                "semiHidden": {
+                    "__prefix": "w"
+                },
+                "_w:type": "character",
+                "_w:styleId": "a5",
+                "__prefix": "w"
+            },
+            {
+                "name": {
+                    "_w:val": "header",
+                    "__prefix": "w"
+                },
+                "basedOn": {
+                    "_w:val": "a",
+                    "__prefix": "w"
+                },
+                "link": {
+                    "_w:val": "a7",
+                    "__prefix": "w"
+                },
+                "uiPriority": {
+                    "_w:val": "99",
+                    "__prefix": "w"
+                },
+                "pPr": {
+                    "tabs": {
+                        "tab": [
+                            {
+                                "_w:val": "center",
+                                "_w:pos": "4153",
+                                "__prefix": "w"
+                            },
+                            {
+                                "_w:val": "right",
+                                "_w:pos": "8306",
+                                "__prefix": "w"
+                            }
+                        ],
+                        "__prefix": "w"
+                    },
+                    "__prefix": "w"
+                },
+                "_w:type": "paragraph",
+                "_w:styleId": "a6",
+                "__prefix": "w"
+            },
+            {
+                "name": {
+                    "_w:val": "Normal Indent",
+                    "__prefix": "w"
+                },
+                "basedOn": {
+                    "_w:val": "a",
+                    "__prefix": "w"
+                },
+                "semiHidden": {
+                    "__prefix": "w"
+                },
+                "pPr": {
+                    "spacing": {
+                        "_w:line": "360",
+                        "_w:lineRule": "auto",
+                        "__prefix": "w"
+                    },
+                    "ind": {
+                        "_w:firstLine": "624",
+                        "__prefix": "w"
+                    },
+                    "jc": {
+                        "_w:val": "both",
+                        "__prefix": "w"
+                    },
+                    "__prefix": "w"
+                },
+                "rPr": {
+                    "sz": {
+                        "_w:val": "26",
+                        "__prefix": "w"
+                    },
+                    "__prefix": "w"
+                },
+                "_w:type": "paragraph",
+                "_w:styleId": "a8",
+                "__prefix": "w"
+            },
+            {
+                "name": {
+                    "_w:val": "Balloon Text",
+                    "__prefix": "w"
+                },
+                "basedOn": {
+                    "_w:val": "a",
+                    "__prefix": "w"
+                },
+                "link": {
+                    "_w:val": "aa",
+                    "__prefix": "w"
+                },
+                "uiPriority": {
+                    "_w:val": "99",
+                    "__prefix": "w"
+                },
+                "semiHidden": {
+                    "__prefix": "w"
+                },
+                "unhideWhenUsed": {
+                    "__prefix": "w"
+                },
+                "rsid": {
+                    "_w:val": "00877263",
+                    "__prefix": "w"
+                },
+                "rPr": {
+                    "rFonts": {
+                        "_w:ascii": "Tahoma",
+                        "_w:hAnsi": "Tahoma",
+                        "__prefix": "w"
+                    },
+                    "sz": {
+                        "_w:val": "16",
+                        "__prefix": "w"
+                    },
+                    "szCs": {
+                        "_w:val": "16",
+                        "__prefix": "w"
+                    },
+                    "lang": {
+                        "_w:val": "x-none",
+                        "_w:eastAsia": "x-none",
+                        "__prefix": "w"
+                    },
+                    "__prefix": "w"
+                },
+                "_w:type": "paragraph",
+                "_w:styleId": "a9",
+                "__prefix": "w"
+            },
+            {
+                "name": {
+                    "_w:val": "Текст выноски Знак",
+                    "__prefix": "w"
+                },
+                "link": {
+                    "_w:val": "a9",
+                    "__prefix": "w"
+                },
+                "uiPriority": {
+                    "_w:val": "99",
+                    "__prefix": "w"
+                },
+                "semiHidden": {
+                    "__prefix": "w"
+                },
+                "rsid": {
+                    "_w:val": "00877263",
+                    "__prefix": "w"
+                },
+                "rPr": {
+                    "rFonts": {
+                        "_w:ascii": "Tahoma",
+                        "_w:hAnsi": "Tahoma",
+                        "_w:cs": "Tahoma",
+                        "__prefix": "w"
+                    },
+                    "sz": {
+                        "_w:val": "16",
+                        "__prefix": "w"
+                    },
+                    "szCs": {
+                        "_w:val": "16",
+                        "__prefix": "w"
+                    },
+                    "__prefix": "w"
+                },
+                "_w:type": "character",
+                "_w:customStyle": "1",
+                "_w:styleId": "aa",
+                "__prefix": "w"
+            },
+            {
+                "name": {
+                    "_w:val": "Hyperlink",
+                    "__prefix": "w"
+                },
+                "uiPriority": {
+                    "_w:val": "99",
+                    "__prefix": "w"
+                },
+                "unhideWhenUsed": {
+                    "__prefix": "w"
+                },
+                "rsid": {
+                    "_w:val": "00312BBC",
+                    "__prefix": "w"
+                },
+                "rPr": {
+                    "color": {
+                        "_w:val": "0000FF",
+                        "__prefix": "w"
+                    },
+                    "u": {
+                        "_w:val": "single",
+                        "__prefix": "w"
+                    },
+                    "__prefix": "w"
+                },
+                "_w:type": "character",
+                "_w:styleId": "ab",
+                "__prefix": "w"
+            },
+            {
+                "name": {
+                    "_w:val": "Верхний колонтитул Знак",
+                    "__prefix": "w"
+                },
+                "link": {
+                    "_w:val": "a6",
+                    "__prefix": "w"
+                },
+                "uiPriority": {
+                    "_w:val": "99",
+                    "__prefix": "w"
+                },
+                "rsid": {
+                    "_w:val": "003E287B",
+                    "__prefix": "w"
+                },
+                "_w:type": "character",
+                "_w:customStyle": "1",
+                "_w:styleId": "a7",
+                "__prefix": "w"
+            },
+            {
+                "name": {
+                    "_w:val": "Нижний колонтитул Знак",
+                    "__prefix": "w"
+                },
+                "link": {
+                    "_w:val": "a3",
+                    "__prefix": "w"
+                },
+                "semiHidden": {
+                    "__prefix": "w"
+                },
+                "rsid": {
+                    "_w:val": "008613D8",
+                    "__prefix": "w"
+                },
+                "_w:type": "character",
+                "_w:customStyle": "1",
+                "_w:styleId": "a4",
+                "__prefix": "w"
+            },
+            {
+                "name": {
+                    "_w:val": "List Paragraph",
+                    "__prefix": "w"
+                },
+                "basedOn": {
+                    "_w:val": "a",
+                    "__prefix": "w"
+                },
+                "uiPriority": {
+                    "_w:val": "34",
+                    "__prefix": "w"
+                },
+                "qFormat": {
+                    "__prefix": "w"
+                },
+                "rsid": {
+                    "_w:val": "003B71A9",
+                    "__prefix": "w"
+                },
+                "pPr": {
+                    "ind": {
+                        "_w:left": "720",
+                        "__prefix": "w"
+                    },
+                    "contextualSpacing": {
+                        "__prefix": "w"
+                    },
+                    "__prefix": "w"
+                },
+                "_w:type": "paragraph",
+                "_w:styleId": "ac",
+                "__prefix": "w"
+            },
+            {
+                "name": {
+                    "_w:val": "Body Text Indent 3",
+                    "__prefix": "w"
+                },
+                "basedOn": {
+                    "_w:val": "a",
+                    "__prefix": "w"
+                },
+                "link": {
+                    "_w:val": "30",
+                    "__prefix": "w"
+                },
+                "semiHidden": {
+                    "__prefix": "w"
+                },
+                "unhideWhenUsed": {
+                    "__prefix": "w"
+                },
+                "rsid": {
+                    "_w:val": "002749EA",
+                    "__prefix": "w"
+                },
+                "pPr": {
+                    "spacing": {
+                        "_w:line": "360",
+                        "_w:lineRule": "auto",
+                        "__prefix": "w"
+                    },
+                    "ind": {
+                        "_w:left": "-567",
+                        "_w:firstLine": "567",
+                        "__prefix": "w"
+                    },
+                    "jc": {
+                        "_w:val": "both",
+                        "__prefix": "w"
+                    },
+                    "__prefix": "w"
+                },
+                "rPr": {
+                    "rFonts": {
+                        "_w:ascii": "TimesET",
+                        "_w:hAnsi": "TimesET",
+                        "__prefix": "w"
+                    },
+                    "sz": {
+                        "_w:val": "24",
+                        "__prefix": "w"
+                    },
+                    "__prefix": "w"
+                },
+                "_w:type": "paragraph",
+                "_w:styleId": "3",
+                "__prefix": "w"
+            },
+            {
+                "name": {
+                    "_w:val": "Основной текст с отступом 3 Знак",
+                    "__prefix": "w"
+                },
+                "basedOn": {
+                    "_w:val": "a0",
+                    "__prefix": "w"
+                },
+                "link": {
+                    "_w:val": "3",
+                    "__prefix": "w"
+                },
+                "semiHidden": {
+                    "__prefix": "w"
+                },
+                "rsid": {
+                    "_w:val": "002749EA",
+                    "__prefix": "w"
+                },
+                "rPr": {
+                    "rFonts": {
+                        "_w:ascii": "TimesET",
+                        "_w:hAnsi": "TimesET",
+                        "__prefix": "w"
+                    },
+                    "sz": {
+                        "_w:val": "24",
+                        "__prefix": "w"
+                    },
+                    "__prefix": "w"
+                },
+                "_w:type": "character",
+                "_w:customStyle": "1",
+                "_w:styleId": "30",
+                "__prefix": "w"
+            },
+            {
+                "name": {
+                    "_w:val": "Body Text",
+                    "__prefix": "w"
+                },
+                "basedOn": {
+                    "_w:val": "a",
+                    "__prefix": "w"
+                },
+                "uiPriority": {
+                    "_w:val": "1",
+                    "__prefix": "w"
+                },
+                "qFormat": {
+                    "__prefix": "w"
+                },
+                "pPr": {
+                    "widowControl": {
+                        "_w:val": "0",
+                        "__prefix": "w"
+                    },
+                    "autoSpaceDE": {
+                        "_w:val": "0",
+                        "__prefix": "w"
+                    },
+                    "autoSpaceDN": {
+                        "_w:val": "0",
+                        "__prefix": "w"
+                    },
+                    "__prefix": "w"
+                },
+                "rPr": {
+                    "sz": {
+                        "_w:val": "11",
+                        "__prefix": "w"
+                    },
+                    "szCs": {
+                        "_w:val": "11",
+                        "__prefix": "w"
+                    },
+                    "lang": {
+                        "_w:eastAsia": "en-US",
+                        "__prefix": "w"
+                    },
+                    "__prefix": "w"
+                },
+                "_w:type": "paragraph",
+                "_w:styleId": "ad",
+                "__prefix": "w"
+            },
+            {
+                "name": {
+                    "_w:val": "Title",
+                    "__prefix": "w"
+                },
+                "basedOn": {
+                    "_w:val": "a",
+                    "__prefix": "w"
+                },
+                "uiPriority": {
+                    "_w:val": "1",
+                    "__prefix": "w"
+                },
+                "qFormat": {
+                    "__prefix": "w"
+                },
+                "pPr": {
+                    "widowControl": {
+                        "_w:val": "0",
+                        "__prefix": "w"
+                    },
+                    "autoSpaceDE": {
+                        "_w:val": "0",
+                        "__prefix": "w"
+                    },
+                    "autoSpaceDN": {
+                        "_w:val": "0",
+                        "__prefix": "w"
+                    },
+                    "spacing": {
+                        "_w:before": "22",
+                        "__prefix": "w"
+                    },
+                    "ind": {
+                        "_w:left": "341",
+                        "_w:right": "248",
+                        "__prefix": "w"
+                    },
+                    "jc": {
+                        "_w:val": "center",
+                        "__prefix": "w"
+                    },
+                    "__prefix": "w"
+                },
+                "rPr": {
+                    "b": {
+                        "__prefix": "w"
+                    },
+                    "bCs": {
+                        "__prefix": "w"
+                    },
+                    "lang": {
+                        "_w:eastAsia": "en-US",
+                        "__prefix": "w"
+                    },
+                    "__prefix": "w"
+                },
+                "_w:type": "paragraph",
+                "_w:styleId": "ae",
+                "__prefix": "w"
+            },
+            {
+                "name": {
+                    "_w:val": "Table Paragraph",
+                    "__prefix": "w"
+                },
+                "basedOn": {
+                    "_w:val": "a",
+                    "__prefix": "w"
+                },
+                "uiPriority": {
+                    "_w:val": "1",
+                    "__prefix": "w"
+                },
+                "qFormat": {
+                    "__prefix": "w"
+                },
+                "pPr": {
+                    "widowControl": {
+                        "_w:val": "0",
+                        "__prefix": "w"
+                    },
+                    "autoSpaceDE": {
+                        "_w:val": "0",
+                        "__prefix": "w"
+                    },
+                    "autoSpaceDN": {
+                        "_w:val": "0",
+                        "__prefix": "w"
+                    },
+                    "__prefix": "w"
+                },
+                "rPr": {
+                    "sz": {
+                        "_w:val": "22",
+                        "__prefix": "w"
+                    },
+                    "szCs": {
+                        "_w:val": "22",
+                        "__prefix": "w"
+                    },
+                    "lang": {
+                        "_w:eastAsia": "en-US",
+                        "__prefix": "w"
+                    },
+                    "__prefix": "w"
+                },
+                "_w:type": "paragraph",
+                "_w:customStyle": "1",
+                "_w:styleId": "TableParagraph",
+                "__prefix": "w"
+            },
+            {
+                "name": {
+                    "_w:val": "Table Normal_0",
+                    "__prefix": "w"
+                },
+                "uiPriority": {
+                    "_w:val": "2",
+                    "__prefix": "w"
+                },
+                "semiHidden": {
+                    "__prefix": "w"
+                },
+                "unhideWhenUsed": {
+                    "__prefix": "w"
+                },
+                "qFormat": {
+                    "__prefix": "w"
+                },
+                "pPr": {
+                    "widowControl": {
+                        "_w:val": "0",
+                        "__prefix": "w"
+                    },
+                    "autoSpaceDE": {
+                        "_w:val": "0",
+                        "__prefix": "w"
+                    },
+                    "autoSpaceDN": {
+                        "_w:val": "0",
+                        "__prefix": "w"
+                    },
+                    "__prefix": "w"
+                },
+                "rPr": {
+                    "rFonts": {
+                        "_w:asciiTheme": "minorHAnsi",
+                        "_w:eastAsiaTheme": "minorHAnsi",
+                        "_w:hAnsiTheme": "minorHAnsi",
+                        "_w:cstheme": "minorBidi",
+                        "__prefix": "w"
+                    },
+                    "sz": {
+                        "_w:val": "22",
+                        "__prefix": "w"
+                    },
+                    "szCs": {
+                        "_w:val": "22",
+                        "__prefix": "w"
+                    },
+                    "lang": {
+                        "_w:val": "en-US",
+                        "_w:eastAsia": "en-US",
+                        "__prefix": "w"
+                    },
+                    "__prefix": "w"
+                },
+                "tblPr": {
+                    "tblInd": {
+                        "_w:w": "0",
+                        "_w:type": "dxa",
+                        "__prefix": "w"
+                    },
+                    "tblCellMar": {
+                        "top": {
+                            "_w:w": "0",
+                            "_w:type": "dxa",
+                            "__prefix": "w"
+                        },
+                        "left": {
+                            "_w:w": "0",
+                            "_w:type": "dxa",
+                            "__prefix": "w"
+                        },
+                        "bottom": {
+                            "_w:w": "0",
+                            "_w:type": "dxa",
+                            "__prefix": "w"
+                        },
+                        "right": {
+                            "_w:w": "0",
+                            "_w:type": "dxa",
+                            "__prefix": "w"
+                        },
+                        "__prefix": "w"
+                    },
+                    "__prefix": "w"
+                },
+                "_w:type": "table",
+                "_w:customStyle": "1",
+                "_w:styleId": "TableNormal0",
+                "__prefix": "w"
+            },
+            {
+                "name": {
+                    "_w:val": "Table Normal_0_0",
+                    "__prefix": "w"
+                },
+                "uiPriority": {
+                    "_w:val": "2",
+                    "__prefix": "w"
+                },
+                "semiHidden": {
+                    "__prefix": "w"
+                },
+                "unhideWhenUsed": {
+                    "__prefix": "w"
+                },
+                "qFormat": {
+                    "__prefix": "w"
+                },
+                "pPr": {
+                    "widowControl": {
+                        "_w:val": "0",
+                        "__prefix": "w"
+                    },
+                    "autoSpaceDE": {
+                        "_w:val": "0",
+                        "__prefix": "w"
+                    },
+                    "autoSpaceDN": {
+                        "_w:val": "0",
+                        "__prefix": "w"
+                    },
+                    "__prefix": "w"
+                },
+                "rPr": {
+                    "rFonts": {
+                        "_w:asciiTheme": "minorHAnsi",
+                        "_w:eastAsiaTheme": "minorHAnsi",
+                        "_w:hAnsiTheme": "minorHAnsi",
+                        "_w:cstheme": "minorBidi",
+                        "__prefix": "w"
+                    },
+                    "sz": {
+                        "_w:val": "22",
+                        "__prefix": "w"
+                    },
+                    "szCs": {
+                        "_w:val": "22",
+                        "__prefix": "w"
+                    },
+                    "lang": {
+                        "_w:val": "en-US",
+                        "_w:eastAsia": "en-US",
+                        "__prefix": "w"
+                    },
+                    "__prefix": "w"
+                },
+                "tblPr": {
+                    "tblInd": {
+                        "_w:w": "0",
+                        "_w:type": "dxa",
+                        "__prefix": "w"
+                    },
+                    "tblCellMar": {
+                        "top": {
+                            "_w:w": "0",
+                            "_w:type": "dxa",
+                            "__prefix": "w"
+                        },
+                        "left": {
+                            "_w:w": "0",
+                            "_w:type": "dxa",
+                            "__prefix": "w"
+                        },
+                        "bottom": {
+                            "_w:w": "0",
+                            "_w:type": "dxa",
+                            "__prefix": "w"
+                        },
+                        "right": {
+                            "_w:w": "0",
+                            "_w:type": "dxa",
+                            "__prefix": "w"
+                        },
+                        "__prefix": "w"
+                    },
+                    "__prefix": "w"
+                },
+                "_w:type": "table",
+                "_w:customStyle": "1",
+                "_w:styleId": "TableNormal00",
+                "__prefix": "w"
+            },
+            {
+                "name": {
+                    "_w:val": "Table Normal_0_1",
+                    "__prefix": "w"
+                },
+                "uiPriority": {
+                    "_w:val": "2",
+                    "__prefix": "w"
+                },
+                "semiHidden": {
+                    "__prefix": "w"
+                },
+                "unhideWhenUsed": {
+                    "__prefix": "w"
+                },
+                "qFormat": {
+                    "__prefix": "w"
+                },
+                "pPr": {
+                    "widowControl": {
+                        "_w:val": "0",
+                        "__prefix": "w"
+                    },
+                    "autoSpaceDE": {
+                        "_w:val": "0",
+                        "__prefix": "w"
+                    },
+                    "autoSpaceDN": {
+                        "_w:val": "0",
+                        "__prefix": "w"
+                    },
+                    "__prefix": "w"
+                },
+                "rPr": {
+                    "rFonts": {
+                        "_w:asciiTheme": "minorHAnsi",
+                        "_w:eastAsiaTheme": "minorHAnsi",
+                        "_w:hAnsiTheme": "minorHAnsi",
+                        "_w:cstheme": "minorBidi",
+                        "__prefix": "w"
+                    },
+                    "sz": {
+                        "_w:val": "22",
+                        "__prefix": "w"
+                    },
+                    "szCs": {
+                        "_w:val": "22",
+                        "__prefix": "w"
+                    },
+                    "lang": {
+                        "_w:val": "en-US",
+                        "_w:eastAsia": "en-US",
+                        "__prefix": "w"
+                    },
+                    "__prefix": "w"
+                },
+                "tblPr": {
+                    "tblInd": {
+                        "_w:w": "0",
+                        "_w:type": "dxa",
+                        "__prefix": "w"
+                    },
+                    "tblCellMar": {
+                        "top": {
+                            "_w:w": "0",
+                            "_w:type": "dxa",
+                            "__prefix": "w"
+                        },
+                        "left": {
+                            "_w:w": "0",
+                            "_w:type": "dxa",
+                            "__prefix": "w"
+                        },
+                        "bottom": {
+                            "_w:w": "0",
+                            "_w:type": "dxa",
+                            "__prefix": "w"
+                        },
+                        "right": {
+                            "_w:w": "0",
+                            "_w:type": "dxa",
+                            "__prefix": "w"
+                        },
+                        "__prefix": "w"
+                    },
+                    "__prefix": "w"
+                },
+                "_w:type": "table",
+                "_w:customStyle": "1",
+                "_w:styleId": "TableNormal01",
+                "__prefix": "w"
+            },
+            {
+                "name": {
+                    "_w:val": "Table Normal_0_2",
+                    "__prefix": "w"
+                },
+                "uiPriority": {
+                    "_w:val": "2",
+                    "__prefix": "w"
+                },
+                "semiHidden": {
+                    "__prefix": "w"
+                },
+                "unhideWhenUsed": {
+                    "__prefix": "w"
+                },
+                "qFormat": {
+                    "__prefix": "w"
+                },
+                "pPr": {
+                    "widowControl": {
+                        "_w:val": "0",
+                        "__prefix": "w"
+                    },
+                    "autoSpaceDE": {
+                        "_w:val": "0",
+                        "__prefix": "w"
+                    },
+                    "autoSpaceDN": {
+                        "_w:val": "0",
+                        "__prefix": "w"
+                    },
+                    "__prefix": "w"
+                },
+                "rPr": {
+                    "rFonts": {
+                        "_w:asciiTheme": "minorHAnsi",
+                        "_w:eastAsiaTheme": "minorHAnsi",
+                        "_w:hAnsiTheme": "minorHAnsi",
+                        "_w:cstheme": "minorBidi",
+                        "__prefix": "w"
+                    },
+                    "sz": {
+                        "_w:val": "22",
+                        "__prefix": "w"
+                    },
+                    "szCs": {
+                        "_w:val": "22",
+                        "__prefix": "w"
+                    },
+                    "lang": {
+                        "_w:val": "en-US",
+                        "_w:eastAsia": "en-US",
+                        "__prefix": "w"
+                    },
+                    "__prefix": "w"
+                },
+                "tblPr": {
+                    "tblInd": {
+                        "_w:w": "0",
+                        "_w:type": "dxa",
+                        "__prefix": "w"
+                    },
+                    "tblCellMar": {
+                        "top": {
+                            "_w:w": "0",
+                            "_w:type": "dxa",
+                            "__prefix": "w"
+                        },
+                        "left": {
+                            "_w:w": "0",
+                            "_w:type": "dxa",
+                            "__prefix": "w"
+                        },
+                        "bottom": {
+                            "_w:w": "0",
+                            "_w:type": "dxa",
+                            "__prefix": "w"
+                        },
+                        "right": {
+                            "_w:w": "0",
+                            "_w:type": "dxa",
+                            "__prefix": "w"
+                        },
+                        "__prefix": "w"
+                    },
+                    "__prefix": "w"
+                },
+                "_w:type": "table",
+                "_w:customStyle": "1",
+                "_w:styleId": "TableNormal02",
+                "__prefix": "w"
+            },
+            {
+                "name": {
+                    "_w:val": "No Spacing",
+                    "__prefix": "w"
+                },
+                "uiPriority": {
+                    "_w:val": "1",
+                    "__prefix": "w"
+                },
+                "qFormat": {
+                    "__prefix": "w"
+                },
+                "rsid": {
+                    "_w:val": "00CF6967",
+                    "__prefix": "w"
+                },
+                "rPr": {
+                    "rFonts": {
+                        "_w:asciiTheme": "minorHAnsi",
+                        "_w:eastAsiaTheme": "minorHAnsi",
+                        "_w:hAnsiTheme": "minorHAnsi",
+                        "_w:cstheme": "minorBidi",
+                        "__prefix": "w"
+                    },
+                    "sz": {
+                        "_w:val": "22",
+                        "__prefix": "w"
+                    },
+                    "szCs": {
+                        "_w:val": "22",
+                        "__prefix": "w"
+                    },
+                    "lang": {
+                        "_w:eastAsia": "en-US",
+                        "__prefix": "w"
+                    },
+                    "__prefix": "w"
+                },
+                "_w:type": "paragraph",
+                "_w:styleId": "af",
+                "__prefix": "w"
+            },
+            {
+                "name": {
+                    "_w:val": "Table Grid",
+                    "__prefix": "w"
+                },
+                "basedOn": {
+                    "_w:val": "a1",
+                    "__prefix": "w"
+                },
+                "uiPriority": {
+                    "_w:val": "59",
+                    "__prefix": "w"
+                },
+                "rsid": {
+                    "_w:val": "0043619D",
+                    "__prefix": "w"
+                },
+                "rPr": {
+                    "rFonts": {
+                        "_w:asciiTheme": "minorHAnsi",
+                        "_w:eastAsiaTheme": "minorHAnsi",
+                        "_w:hAnsiTheme": "minorHAnsi",
+                        "_w:cstheme": "minorBidi",
+                        "__prefix": "w"
+                    },
+                    "sz": {
+                        "_w:val": "22",
+                        "__prefix": "w"
+                    },
+                    "szCs": {
+                        "_w:val": "22",
+                        "__prefix": "w"
+                    },
+                    "lang": {
+                        "_w:eastAsia": "en-US",
+                        "__prefix": "w"
+                    },
+                    "__prefix": "w"
+                },
+                "tblPr": {
+                    "tblInd": {
+                        "_w:w": "0",
+                        "_w:type": "dxa",
+                        "__prefix": "w"
+                    },
+                    "tblBorders": {
+                        "top": {
+                            "_w:val": "single",
+                            "_w:sz": "4",
+                            "_w:space": "0",
+                            "_w:color": "auto",
+                            "__prefix": "w"
+                        },
+                        "left": {
+                            "_w:val": "single",
+                            "_w:sz": "4",
+                            "_w:space": "0",
+                            "_w:color": "auto",
+                            "__prefix": "w"
+                        },
+                        "bottom": {
+                            "_w:val": "single",
+                            "_w:sz": "4",
+                            "_w:space": "0",
+                            "_w:color": "auto",
+                            "__prefix": "w"
+                        },
+                        "right": {
+                            "_w:val": "single",
+                            "_w:sz": "4",
+                            "_w:space": "0",
+                            "_w:color": "auto",
+                            "__prefix": "w"
+                        },
+                        "insideH": {
+                            "_w:val": "single",
+                            "_w:sz": "4",
+                            "_w:space": "0",
+                            "_w:color": "auto",
+                            "__prefix": "w"
+                        },
+                        "insideV": {
+                            "_w:val": "single",
+                            "_w:sz": "4",
+                            "_w:space": "0",
+                            "_w:color": "auto",
+                            "__prefix": "w"
+                        },
+                        "__prefix": "w"
+                    },
+                    "tblCellMar": {
+                        "top": {
+                            "_w:w": "0",
+                            "_w:type": "dxa",
+                            "__prefix": "w"
+                        },
+                        "left": {
+                            "_w:w": "108",
+                            "_w:type": "dxa",
+                            "__prefix": "w"
+                        },
+                        "bottom": {
+                            "_w:w": "0",
+                            "_w:type": "dxa",
+                            "__prefix": "w"
+                        },
+                        "right": {
+                            "_w:w": "108",
+                            "_w:type": "dxa",
+                            "__prefix": "w"
+                        },
+                        "__prefix": "w"
+                    },
+                    "__prefix": "w"
+                },
+                "_w:type": "table",
+                "_w:styleId": "af0",
+                "__prefix": "w"
+            },
+            {
+                "name": {
+                    "_w:val": "ConsPlusTitle",
+                    "__prefix": "w"
+                },
+                "rsid": {
+                    "_w:val": "00246E6B",
+                    "__prefix": "w"
+                },
+                "pPr": {
+                    "widowControl": {
+                        "_w:val": "0",
+                        "__prefix": "w"
+                    },
+                    "autoSpaceDE": {
+                        "_w:val": "0",
+                        "__prefix": "w"
+                    },
+                    "autoSpaceDN": {
+                        "_w:val": "0",
+                        "__prefix": "w"
+                    },
+                    "adjustRightInd": {
+                        "_w:val": "0",
+                        "__prefix": "w"
+                    },
+                    "__prefix": "w"
+                },
+                "rPr": {
+                    "rFonts": {
+                        "_w:ascii": "Arial",
+                        "_w:eastAsiaTheme": "minorEastAsia",
+                        "_w:hAnsi": "Arial",
+                        "_w:cs": "Arial",
+                        "__prefix": "w"
+                    },
+                    "b": {
+                        "__prefix": "w"
+                    },
+                    "bCs": {
+                        "__prefix": "w"
+                    },
+                    "__prefix": "w"
+                },
+                "_w:type": "paragraph",
+                "_w:customStyle": "1",
+                "_w:styleId": "ConsPlusTitle",
+                "__prefix": "w"
+            },
+            {
+                "name": {
+                    "_w:val": "ConsPlusNormal",
+                    "__prefix": "w"
+                },
+                "rsid": {
+                    "_w:val": "00CF6967",
+                    "__prefix": "w"
+                },
+                "pPr": {
+                    "widowControl": {
+                        "_w:val": "0",
+                        "__prefix": "w"
+                    },
+                    "autoSpaceDE": {
+                        "_w:val": "0",
+                        "__prefix": "w"
+                    },
+                    "autoSpaceDN": {
+                        "_w:val": "0",
+                        "__prefix": "w"
+                    },
+                    "adjustRightInd": {
+                        "_w:val": "0",
+                        "__prefix": "w"
+                    },
+                    "__prefix": "w"
+                },
+                "rPr": {
+                    "rFonts": {
+                        "_w:ascii": "Arial",
+                        "_w:eastAsiaTheme": "minorEastAsia",
+                        "_w:hAnsi": "Arial",
+                        "_w:cs": "Arial",
+                        "__prefix": "w"
+                    },
+                    "__prefix": "w"
+                },
+                "_w:type": "paragraph",
+                "_w:customStyle": "1",
+                "_w:styleId": "ConsPlusNormal",
+                "__prefix": "w"
+            },
+            {
+                "name": {
+                    "_w:val": "footnote reference",
+                    "__prefix": "w"
+                },
+                "basedOn": {
+                    "_w:val": "a0",
+                    "__prefix": "w"
+                },
+                "uiPriority": {
+                    "_w:val": "99",
+                    "__prefix": "w"
+                },
+                "semiHidden": {
+                    "__prefix": "w"
+                },
+                "unhideWhenUsed": {
+                    "__prefix": "w"
+                },
+                "rsid": {
+                    "_w:val": "00AB04E0",
+                    "__prefix": "w"
+                },
+                "rPr": {
+                    "vertAlign": {
+                        "_w:val": "superscript",
+                        "__prefix": "w"
+                    },
+                    "__prefix": "w"
+                },
+                "_w:type": "character",
+                "_w:styleId": "af1",
+                "__prefix": "w"
+            },
+            {
+                "name": {
+                    "_w:val": "footnote text",
+                    "__prefix": "w"
+                },
+                "basedOn": {
+                    "_w:val": "a",
+                    "__prefix": "w"
+                },
+                "link": {
+                    "_w:val": "af3",
+                    "__prefix": "w"
+                },
+                "uiPriority": {
+                    "_w:val": "99",
+                    "__prefix": "w"
+                },
+                "semiHidden": {
+                    "__prefix": "w"
+                },
+                "unhideWhenUsed": {
+                    "__prefix": "w"
+                },
+                "rsid": {
+                    "_w:val": "00AB04E0",
+                    "__prefix": "w"
+                },
+                "rPr": {
+                    "rFonts": {
+                        "_w:asciiTheme": "minorHAnsi",
+                        "_w:eastAsiaTheme": "minorHAnsi",
+                        "_w:hAnsiTheme": "minorHAnsi",
+                        "_w:cstheme": "minorBidi",
+                        "__prefix": "w"
+                    },
+                    "lang": {
+                        "_w:eastAsia": "en-US",
+                        "__prefix": "w"
+                    },
+                    "__prefix": "w"
+                },
+                "_w:type": "paragraph",
+                "_w:styleId": "af2",
+                "__prefix": "w"
+            },
+            {
+                "name": {
+                    "_w:val": "Текст сноски Знак",
+                    "__prefix": "w"
+                },
+                "basedOn": {
+                    "_w:val": "a0",
+                    "__prefix": "w"
+                },
+                "link": {
+                    "_w:val": "af2",
+                    "__prefix": "w"
+                },
+                "uiPriority": {
+                    "_w:val": "99",
+                    "__prefix": "w"
+                },
+                "semiHidden": {
+                    "__prefix": "w"
+                },
+                "rsid": {
+                    "_w:val": "00AB04E0",
+                    "__prefix": "w"
+                },
+                "rPr": {
+                    "rFonts": {
+                        "_w:asciiTheme": "minorHAnsi",
+                        "_w:eastAsiaTheme": "minorHAnsi",
+                        "_w:hAnsiTheme": "minorHAnsi",
+                        "_w:cstheme": "minorBidi",
+                        "__prefix": "w"
+                    },
+                    "lang": {
+                        "_w:eastAsia": "en-US",
+                        "__prefix": "w"
+                    },
+                    "__prefix": "w"
+                },
+                "_w:type": "character",
+                "_w:customStyle": "1",
+                "_w:styleId": "af3",
+                "__prefix": "w"
+            },
+            {
+                "name": {
+                    "_w:val": "ConsPlusNonformat",
+                    "__prefix": "w"
+                },
+                "rsid": {
+                    "_w:val": "00E97E3C",
+                    "__prefix": "w"
+                },
+                "pPr": {
+                    "autoSpaceDE": {
+                        "_w:val": "0",
+                        "__prefix": "w"
+                    },
+                    "autoSpaceDN": {
+                        "_w:val": "0",
+                        "__prefix": "w"
+                    },
+                    "adjustRightInd": {
+                        "_w:val": "0",
+                        "__prefix": "w"
+                    },
+                    "__prefix": "w"
+                },
+                "rPr": {
+                    "rFonts": {
+                        "_w:ascii": "Courier New",
+                        "_w:hAnsi": "Courier New",
+                        "_w:cs": "Courier New",
+                        "__prefix": "w"
+                    },
+                    "__prefix": "w"
+                },
+                "_w:type": "paragraph",
+                "_w:customStyle": "1",
+                "_w:styleId": "ConsPlusNonformat",
+                "__prefix": "w"
+            },
+            {
+                "name": {
+                    "_w:val": "annotation text",
+                    "__prefix": "w"
+                },
+                "basedOn": {
+                    "_w:val": "a",
+                    "__prefix": "w"
+                },
+                "link": {
+                    "_w:val": "af5",
+                    "__prefix": "w"
+                },
+                "uiPriority": {
+                    "_w:val": "99",
+                    "__prefix": "w"
+                },
+                "unhideWhenUsed": {
+                    "__prefix": "w"
+                },
+                "rsid": {
+                    "_w:val": "00E97E3C",
+                    "__prefix": "w"
+                },
+                "pPr": {
+                    "spacing": {
+                        "_w:after": "160",
+                        "__prefix": "w"
+                    },
+                    "__prefix": "w"
+                },
+                "rPr": {
+                    "rFonts": {
+                        "_w:asciiTheme": "minorHAnsi",
+                        "_w:eastAsiaTheme": "minorHAnsi",
+                        "_w:hAnsiTheme": "minorHAnsi",
+                        "_w:cstheme": "minorBidi",
+                        "__prefix": "w"
+                    },
+                    "lang": {
+                        "_w:eastAsia": "en-US",
+                        "__prefix": "w"
+                    },
+                    "__prefix": "w"
+                },
+                "_w:type": "paragraph",
+                "_w:styleId": "af4",
+                "__prefix": "w"
+            },
+            {
+                "name": {
+                    "_w:val": "Текст примечания Знак",
+                    "__prefix": "w"
+                },
+                "basedOn": {
+                    "_w:val": "a0",
+                    "__prefix": "w"
+                },
+                "link": {
+                    "_w:val": "af4",
+                    "__prefix": "w"
+                },
+                "uiPriority": {
+                    "_w:val": "99",
+                    "__prefix": "w"
+                },
+                "rsid": {
+                    "_w:val": "00E97E3C",
+                    "__prefix": "w"
+                },
+                "rPr": {
+                    "rFonts": {
+                        "_w:asciiTheme": "minorHAnsi",
+                        "_w:eastAsiaTheme": "minorHAnsi",
+                        "_w:hAnsiTheme": "minorHAnsi",
+                        "_w:cstheme": "minorBidi",
+                        "__prefix": "w"
+                    },
+                    "lang": {
+                        "_w:eastAsia": "en-US",
+                        "__prefix": "w"
+                    },
+                    "__prefix": "w"
+                },
+                "_w:type": "character",
+                "_w:customStyle": "1",
+                "_w:styleId": "af5",
+                "__prefix": "w"
+            },
+            {
+                "name": {
+                    "_w:val": "annotation subject",
+                    "__prefix": "w"
+                },
+                "basedOn": {
+                    "_w:val": "af4",
+                    "__prefix": "w"
+                },
+                "next": {
+                    "_w:val": "af4",
+                    "__prefix": "w"
+                },
+                "link": {
+                    "_w:val": "af7",
+                    "__prefix": "w"
+                },
+                "uiPriority": {
+                    "_w:val": "99",
+                    "__prefix": "w"
+                },
+                "semiHidden": {
+                    "__prefix": "w"
+                },
+                "rsid": {
+                    "_w:val": "00E97E3C",
+                    "__prefix": "w"
+                },
+                "pPr": {
+                    "spacing": {
+                        "_w:after": "0",
+                        "__prefix": "w"
+                    },
+                    "__prefix": "w"
+                },
+                "rPr": {
+                    "rFonts": {
+                        "_w:ascii": "Times New Roman",
+                        "_w:eastAsia": "Times New Roman",
+                        "_w:hAnsi": "Times New Roman",
+                        "_w:cs": "Times New Roman",
+                        "__prefix": "w"
+                    },
+                    "b": {
+                        "__prefix": "w"
+                    },
+                    "bCs": {
+                        "__prefix": "w"
+                    },
+                    "lang": {
+                        "_w:eastAsia": "ru-RU",
+                        "__prefix": "w"
+                    },
+                    "__prefix": "w"
+                },
+                "_w:type": "paragraph",
+                "_w:styleId": "af6",
+                "__prefix": "w"
+            },
+            {
+                "name": {
+                    "_w:val": "Тема примечания Знак",
+                    "__prefix": "w"
+                },
+                "basedOn": {
+                    "_w:val": "af5",
+                    "__prefix": "w"
+                },
+                "link": {
+                    "_w:val": "af6",
+                    "__prefix": "w"
+                },
+                "uiPriority": {
+                    "_w:val": "99",
+                    "__prefix": "w"
+                },
+                "semiHidden": {
+                    "__prefix": "w"
+                },
+                "rsid": {
+                    "_w:val": "00E97E3C",
+                    "__prefix": "w"
+                },
+                "rPr": {
+                    "rFonts": {
+                        "_w:ascii": "Times New Roman",
+                        "_w:eastAsia": "Times New Roman",
+                        "_w:hAnsi": "Times New Roman",
+                        "_w:cs": "Times New Roman",
+                        "__prefix": "w"
+                    },
+                    "b": {
+                        "__prefix": "w"
+                    },
+                    "bCs": {
+                        "__prefix": "w"
+                    },
+                    "lang": {
+                        "_w:eastAsia": "ru-RU",
+                        "__prefix": "w"
+                    },
+                    "__prefix": "w"
+                },
+                "_w:type": "character",
+                "_w:customStyle": "1",
+                "_w:styleId": "af7",
+                "__prefix": "w"
+            },
+            {
+                "name": {
+                    "_w:val": "Table Grid_0",
+                    "__prefix": "w"
+                },
+                "basedOn": {
+                    "_w:val": "a1",
+                    "__prefix": "w"
+                },
+                "uiPriority": {
+                    "_w:val": "59",
+                    "__prefix": "w"
+                },
+                "rsid": {
+                    "_w:val": "0043619D",
+                    "__prefix": "w"
+                },
+                "rPr": {
+                    "rFonts": {
+                        "_w:asciiTheme": "minorHAnsi",
+                        "_w:eastAsiaTheme": "minorHAnsi",
+                        "_w:hAnsiTheme": "minorHAnsi",
+                        "_w:cstheme": "minorBidi",
+                        "__prefix": "w"
+                    },
+                    "sz": {
+                        "_w:val": "22",
+                        "__prefix": "w"
+                    },
+                    "szCs": {
+                        "_w:val": "22",
+                        "__prefix": "w"
+                    },
+                    "lang": {
+                        "_w:eastAsia": "en-US",
+                        "__prefix": "w"
+                    },
+                    "__prefix": "w"
+                },
+                "tblPr": {
+                    "tblInd": {
+                        "_w:w": "0",
+                        "_w:type": "dxa",
+                        "__prefix": "w"
+                    },
+                    "tblBorders": {
+                        "top": {
+                            "_w:val": "single",
+                            "_w:sz": "4",
+                            "_w:space": "0",
+                            "_w:color": "auto",
+                            "__prefix": "w"
+                        },
+                        "left": {
+                            "_w:val": "single",
+                            "_w:sz": "4",
+                            "_w:space": "0",
+                            "_w:color": "auto",
+                            "__prefix": "w"
+                        },
+                        "bottom": {
+                            "_w:val": "single",
+                            "_w:sz": "4",
+                            "_w:space": "0",
+                            "_w:color": "auto",
+                            "__prefix": "w"
+                        },
+                        "right": {
+                            "_w:val": "single",
+                            "_w:sz": "4",
+                            "_w:space": "0",
+                            "_w:color": "auto",
+                            "__prefix": "w"
+                        },
+                        "insideH": {
+                            "_w:val": "single",
+                            "_w:sz": "4",
+                            "_w:space": "0",
+                            "_w:color": "auto",
+                            "__prefix": "w"
+                        },
+                        "insideV": {
+                            "_w:val": "single",
+                            "_w:sz": "4",
+                            "_w:space": "0",
+                            "_w:color": "auto",
+                            "__prefix": "w"
+                        },
+                        "__prefix": "w"
+                    },
+                    "tblCellMar": {
+                        "top": {
+                            "_w:w": "0",
+                            "_w:type": "dxa",
+                            "__prefix": "w"
+                        },
+                        "left": {
+                            "_w:w": "108",
+                            "_w:type": "dxa",
+                            "__prefix": "w"
+                        },
+                        "bottom": {
+                            "_w:w": "0",
+                            "_w:type": "dxa",
+                            "__prefix": "w"
+                        },
+                        "right": {
+                            "_w:w": "108",
+                            "_w:type": "dxa",
+                            "__prefix": "w"
+                        },
+                        "__prefix": "w"
+                    },
+                    "__prefix": "w"
+                },
+                "_w:type": "table",
+                "_w:customStyle": "1",
+                "_w:styleId": "TableGrid0",
+                "__prefix": "w"
+            }
+        ],
+        "_xmlns:wpc": "http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas",
+        "_xmlns:mc": "http://schemas.openxmlformats.org/markup-compatibility/2006",
+        "_xmlns:o": "urn:schemas-microsoft-com:office:office",
+        "_xmlns:r": "http://schemas.openxmlformats.org/officeDocument/2006/relationships",
+        "_xmlns:m": "http://schemas.openxmlformats.org/officeDocument/2006/math",
+        "_xmlns:v": "urn:schemas-microsoft-com:vml",
+        "_xmlns:wp14": "http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing",
+        "_xmlns:wp": "http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing",
+        "_xmlns:w10": "urn:schemas-microsoft-com:office:word",
+        "_xmlns:w": "http://schemas.openxmlformats.org/wordprocessingml/2006/main",
+        "_xmlns:w14": "http://schemas.microsoft.com/office/word/2010/wordml",
+        "_xmlns:wpg": "http://schemas.microsoft.com/office/word/2010/wordprocessingGroup",
+        "_xmlns:wpi": "http://schemas.microsoft.com/office/word/2010/wordprocessingInk",
+        "_xmlns:wne": "http://schemas.microsoft.com/office/word/2006/wordml",
+        "_xmlns:wps": "http://schemas.microsoft.com/office/word/2010/wordprocessingShape",
+        "_mc:Ignorable": "w14 wp14",
+        "__prefix": "w"
+    }
+}

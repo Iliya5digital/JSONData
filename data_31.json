@@ -1,0 +1,24 @@
+{
+    "coreProperties": {
+        "description": {
+            "__prefix": "dc",
+            "__text": "Подготовлено экспертами Актион-МЦФЭР"
+        },
+        "created": {
+            "_xsi:type": "dcterms:W3CDTF",
+            "__prefix": "dcterms",
+            "__text": "2022-11-18T13:49:00Z"
+        },
+        "modified": {
+            "_xsi:type": "dcterms:W3CDTF",
+            "__prefix": "dcterms",
+            "__text": "2022-11-21T08:01:00Z"
+        },
+        "_xmlns:cp": "http://schemas.openxmlformats.org/package/2006/metadata/core-properties",
+        "_xmlns:dc": "http://purl.org/dc/elements/1.1/",
+        "_xmlns:dcterms": "http://purl.org/dc/terms/",
+        "_xmlns:dcmitype": "http://purl.org/dc/dcmitype/",
+        "_xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "__prefix": "cp"
+    }
+}
