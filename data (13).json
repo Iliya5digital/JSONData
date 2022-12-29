@@ -1,0 +1,3488 @@
+{
+    "settings": {
+        "writeProtection": {
+            "_w:recommended": "1",
+            "__prefix": "w"
+        },
+        "zoom": {
+            "_w:percent": "160",
+            "__prefix": "w"
+        },
+        "proofState": {
+            "_w:spelling": "clean",
+            "_w:grammar": "clean",
+            "__prefix": "w"
+        },
+        "attachedTemplate": {
+            "_r:id": "rId1",
+            "__prefix": "w"
+        },
+        "documentProtection": {
+            "_w:edit": "comments",
+            "_w:enforcement": "0",
+            "__prefix": "w"
+        },
+        "defaultTabStop": {
+            "_w:val": "284",
+            "__prefix": "w"
+        },
+        "displayHorizontalDrawingGridEvery": {
+            "_w:val": "0",
+            "__prefix": "w"
+        },
+        "displayVerticalDrawingGridEvery": {
+            "_w:val": "0",
+            "__prefix": "w"
+        },
+        "doNotUseMarginsForDrawingGridOrigin": {
+            "__prefix": "w"
+        },
+        "noPunctuationKerning": {
+            "__prefix": "w"
+        },
+        "characterSpacingControl": {
+            "_w:val": "doNotCompress",
+            "__prefix": "w"
+        },
+        "footnotePr": {
+            "footnote": [
+                {
+                    "_w:id": "-1",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:id": "0",
+                    "__prefix": "w"
+                }
+            ],
+            "__prefix": "w"
+        },
+        "endnotePr": {
+            "endnote": [
+                {
+                    "_w:id": "-1",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:id": "0",
+                    "__prefix": "w"
+                }
+            ],
+            "__prefix": "w"
+        },
+        "compat": {
+            "compatSetting": [
+                {
+                    "_w:name": "compatibilityMode",
+                    "_w:uri": "http://schemas.microsoft.com/office/word",
+                    "_w:val": "14",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "overrideTableStyleFontSizeAndJustification",
+                    "_w:uri": "http://schemas.microsoft.com/office/word",
+                    "_w:val": "1",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "enableOpenTypeFeatures",
+                    "_w:uri": "http://schemas.microsoft.com/office/word",
+                    "_w:val": "1",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:name": "doNotFlipMirrorIndents",
+                    "_w:uri": "http://schemas.microsoft.com/office/word",
+                    "_w:val": "1",
+                    "__prefix": "w"
+                }
+            ],
+            "__prefix": "w"
+        },
+        "rsids": {
+            "rsidRoot": {
+                "_w:val": "00E51105",
+                "__prefix": "w"
+            },
+            "rsid": [
+                {
+                    "_w:val": "000028CD",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00003281",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "000071DD",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "000077C5",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00010335",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00011493",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00015787",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00024413",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "0002748B",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00027735",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00041557",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "000425CC",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00045BF0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00050A75",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "0005520C",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00056121",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00060FE2",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00080063",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "000900FB",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "000912C4",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00092A51",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00092E77",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "0009600D",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "000A274A",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "000B0868",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "000B150E",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "000B5252",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "000B5348",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "000B5EAA",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "000B66CF",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "000C3EDE",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "000C5B20",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "000D4188",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "000D51F4",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "000D6A1E",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "000D6BB0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "000E067C",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "000E202B",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "000E425C",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "000E68DD",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "000F52CD",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "000F74A3",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "0010069F",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00101BC8",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00103F46",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00105EDB",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00106D06",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00111D00",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00111F1E",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00117D71",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00125CD9",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00126771",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00130076",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "0013331A",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "0013639A",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "0015323A",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00156ABC",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00156EDD",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00157D7E",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00163077",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "001701EA",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00170F92",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00174A86",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "001754D3",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00176830",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00183E1B",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00185D50",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "001916FA",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "001947AF",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00196BDC",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00197B82",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "001A2C6C",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "001A491C",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "001A6E9E",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "001C0285",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "001C235F",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "001C27EA",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "001C2C76",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "001C39D1",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "001C724B",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "001C799E",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "001D0E6C",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "001D106D",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "001D16A1",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "001E01FA",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "001E14A9",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "001E2F60",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "001E34C0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "001F64DC",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "001F66FB",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "001F6CE8",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00202C19",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "002030D8",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00204D1E",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00211799",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "002133FF",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "002170EB",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00217A91",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00221355",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00222DB1",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00226150",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00240B8D",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00241317",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00246EB5",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "0025171D",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00251831",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00257F30",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "0026334B",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "0026682F",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00267E09",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "002703E2",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00271C7F",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "0027295C",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00273620",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "002736A4",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "002749EA",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00276FA7",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00280B16",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "002821DE",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00283106",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "002918DB",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "0029644C",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "0029649B",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "002A07A7",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "002A0F39",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "002A5174",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "002B15DB",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "002B4049",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "002B4EA5",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "002B5B86",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "002B6328",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "002B78C9",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "002C0589",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "002C3123",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "002C337F",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "002C5671",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "002C74F8",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "002D3517",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "002D7293",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "002D784A",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "002E4481",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "002F130A",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "002F1505",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00301AC9",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00305430",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00305FC1",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "003060A2",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00306147",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00306664",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00312BBC",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "003133DE",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00321F89",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00322C83",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00322FB4",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00331029",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00331C11",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00334751",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "0034314C",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00354297",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00355F57",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "0035773F",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "003601CF",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00363535",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00366988",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00371994",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "003732CE",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00373B6F",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "0037615B",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "0037715C",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00377B81",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00387AF0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00390981",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00392B0F",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "0039315D",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00394733",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00394FD8",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "003B3EB6",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "003B5076",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "003B71A9",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "003C2B48",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "003C42C2",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "003C65C4",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "003D01A5",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "003D0CC8",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "003D27AC",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "003D287A",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "003D4856",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "003D5218",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "003E287B",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "003F280F",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "003F29F5",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "003F324E",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "003F3312",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "003F4552",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00404513",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00410214",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "004117AE",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00412417",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "0041557A",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "0041608D",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00416F09",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "004249E5",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00427A84",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "004312C3",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00433459",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "0043551C",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "004359A8",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "0043619D",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00437059",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00442867",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "004436A8",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "004456BA",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "004464DD",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00447F5A",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00453D91",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "004546AC",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "0046143B",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00463FAF",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00465D26",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00466006",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00466DC5",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "0047171A",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00473879",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00475B08",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00477FD7",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "004801F2",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "0048232B",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00483AD5",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00491749",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "004A2D9A",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "004B43E1",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "004C3572",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "004C37E2",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "004C61AE",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "004C683B",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "004D0D93",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "004D21B5",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "004D43A2",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "004D5330",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "004D5697",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "004D5A47",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "004D726E",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "004E0BAC",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "004E1CCE",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "004E5182",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "004F2874",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "004F42A4",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "0050369F",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00503FD6",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00504BA7",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00505440",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00506F60",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "005204BA",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "005212FF",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00521633",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "005220E0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00522FB9",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00525A62",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00532DD7",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "005331E8",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00533B5D",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00534E5F",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "005355E8",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00540259",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00552372",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "0055312D",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00560847",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "0056173B",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00564104",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00570DD4",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "005710B3",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "0057541D",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00582669",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "005830EB",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00584C20",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "0058686B",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00586D8F",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "005953F0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "005957B6",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00596A10",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "005A0D58",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "005A78F7",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "005B4306",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "005B44A4",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "005C089A",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "005C7F79",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "005D30E0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "005D788A",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "005E3CBC",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "005E460A",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "005E4F7A",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "005F179E",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "005F2D1C",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "005F2E6D",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "005F56BB",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "005F63C2",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "005F79A1",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "006010DD",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00601E78",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "006056F8",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00605ED1",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "006072D1",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00611730",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00612FE6",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00614054",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00623312",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "0062407B",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "006315A7",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "0063410B",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00635ED6",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00642BC1",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00642D42",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "0064322D",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "006433D3",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00646A87",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "0065013D",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00651076",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00657D4F",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "006630B7",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "006639E9",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00667697",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00672FB5",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00676D07",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00681038",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "006827F1",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00682EDE",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00692141",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "006A1E93",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "006A6811",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "006B3DC4",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "006B79C3",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "006C02D9",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "006C2A01",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "006C39C6",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "006C4860",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "006C4FB2",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "006C58A2",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "006C797A",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "006D2EF0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "006D5609",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "006D7080",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "006E4AB1",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "006F1017",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "006F2B9E",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "006F5452",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "006F74F4",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "006F7B45",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00700C79",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00704A2E",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00705E0F",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00711E5D",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00711F55",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00712BF0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00714FB0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "007229F0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "007239BF",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "0072412F",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "007269A4",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00732238",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00733AD5",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00734A18",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "0073788B",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00743778",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "007455ED",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00752FFA",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00755E49",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "007560C1",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00757AD0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "007620C9",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "007711A0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "007711AD",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00772915",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "007748A6",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00776040",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00776234",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "0079088A",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00791897",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00794088",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "007A18DB",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "007A5181",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "007A5EEA",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "007B1201",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "007B4C99",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "007C423B",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "007C4B58",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "007C54E0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "007E06D4",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "007E4FE8",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "007E64E2",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "007E6A4B",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "007F2517",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "007F29D1",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "007F7719",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00817ACD",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00821A4B",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00826FAE",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00833C38",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00834804",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00835E58",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00841C74",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00841D94",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00843188",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "008437FA",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "008442A3",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00846C5C",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "008471FD",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "0085395B",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "008565FE",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00861351",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "008613D8",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00862C0A",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00865381",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00870649",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00870CAD",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "0087179A",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "0087657F",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00877263",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00880AB7",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00880B33",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00885EC3",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "008904CB",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00891DA6",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "008941C4",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00897A35",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "008A0F57",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "008A182F",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "008A2024",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "008A6329",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "008B004F",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "008B46B7",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "008B6B1A",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "008C071F",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "008C674A",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "008D2E63",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "008D4D99",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "008D5145",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "008D68CE",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "008D7D2C",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "008E4A71",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "008E4B18",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "008E59F7",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "008F3D2A",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "008F67A9",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "008F6FA4",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "008F755C",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00910B55",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00913106",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "009153D2",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00920E43",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00922AAA",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00922C8A",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00924306",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00926262",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "009360D4",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "009407AB",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "009411D6",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00941975",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "0094317D",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00945D48",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "009460F9",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00950BD6",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00951F0E",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00955911",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00955E38",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "009627E9",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "009701EA",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00970BB6",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00977345",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00981701",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "0098461A",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00984DE3",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "0098725B",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "0098748D",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00991424",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00993927",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "009973AF",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "009A52D5",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "009A74BF",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "009B143F",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "009B310E",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "009B3792",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "009B533B",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "009B6692",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "009B72B6",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "009C0EB2",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "009C1F05",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "009C4776",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "009C6734",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "009D20EF",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "009D2BA6",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "009D401D",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "009E44CB",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "009F16CF",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "009F3881",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "009F432D",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "009F4905",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "009F4CCB",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "009F51A6",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "009F677B",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "009F6F7A",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "009F7543",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00A028D1",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00A038E3",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00A04FF9",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00A11BF8",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00A11EF7",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00A24DDF",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00A310DB",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00A31480",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00A34B8B",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00A34E9C",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00A4023C",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00A421C3",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00A421FA",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00A423EA",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00A443C0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00A47BFA",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00A53ADE",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00A53E5A",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00A6229F",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00A63E09",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00A70159",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00A70A72",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00A71810",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00A74C87",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00A77692",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00A82009",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00A82F37",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00A84347",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00A84D29",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00A85E3B",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00A901DB",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00A925F3",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00A935BD",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00AA0F76",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00AA19FE",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00AA285C",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00AA4293",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00AA5DE9",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00AA5E81",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00AA624D",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00AB04E0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00AB54FE",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00AB5C33",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00AB702F",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00AB7461",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00AB76C9",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00AC2F7F",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00AC408D",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00AC420C",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00AC52A5",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00AD1AFE",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00AD4911",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00AD6824",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00AF3619",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00AF7115",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00B00FC2",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00B02E4C",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00B0404C",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00B045A4",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00B054FC",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00B06D82",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00B07781",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00B07C86",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00B14C98",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00B218E8",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00B27D01",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00B30D23",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00B33CF7",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00B35B21",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00B36A64",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00B42882",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00B4496B",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00B532E8",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00B53AD7",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00B6097A",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00B61625",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00B62536",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00B62EF4",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00B6587A",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00B67B1F",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00B71A84",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00B738DF",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00B74424",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00B74A6B",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00B83183",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00B83720",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00B84436",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00B84C9E",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00B856EF",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00B91CB3",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00B95EBE",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00B977A6",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00B97B74",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00BA388A",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00BB6FEF",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00BB785D",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00BC2748",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00BC2C31",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00BC59FB",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00BC5A6A",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00BD2137",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00BD4420",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00BD522D",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00BD5296",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00BD6D2E",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00BD7146",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00BE03A4",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00BE5A8A",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00BF53E5",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00BF795F",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00C000DF",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00C06CBA",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00C1521B",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00C17A94",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00C201A2",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00C21E00",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00C22516",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00C22D43",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00C26CEE",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00C30FC4",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00C316FC",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00C348F7",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00C349CD",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00C47165",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00C51FDC",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00C6198B",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00C645FF",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00C67977",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00C716C5",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00C75A20",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00C76360",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00C76A01",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00C80C8E",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00C8194A",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00C81B61",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00C82B98",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00C8536C",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00C85E18",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00C86F56",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00C95072",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00C962E3",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00C97D98",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00CA017C",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00CA3AF0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00CA5ED2",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00CA63D6",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00CA6F8F",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00CA7BD6",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00CA7DCA",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00CB00CC",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00CB45ED",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00CB5944",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00CB7010",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00CC4026",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00CD4EAF",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00CE0CF9",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00CE1AA5",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00CE3EF3",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00CE70DE",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00CF2721",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00CF375A",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00CF4FB8",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00D01086",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00D01F76",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00D02EC7",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00D048FA",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00D10853",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00D10CBA",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00D14512",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00D14A77",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00D15925",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00D177EB",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00D225C2",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00D238B3",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00D26A79",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00D375A8",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00D441BD",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00D4536F",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00D45C50",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00D51C22",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00D57146",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00D6072A",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00D60F23",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00D62082",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00D665C6",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00D720FE",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00D75FED",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00D760AA",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00D76FEB",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00D84547",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00D87EEC",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00D90CC3",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00D940ED",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00DA472B",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00DA61B1",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00DA7980",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00DB30F2",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00DB512B",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00DB7A9A",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00DC6337",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00DD29EF",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00DD6031",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00DD6E37",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00DE0EA0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00DE2434",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00DE27FF",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00DE3E15",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00DE76FE",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00DF1140",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00DF24D0",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00DF7CFF",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00DF7E8F",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00E0052A",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00E00A28",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00E03311",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00E04B27",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00E07454",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00E0786D",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00E1096C",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00E118E4",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00E15BC6",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00E20F71",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00E22F51",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00E23B12",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00E248AB",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00E2519E",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00E262AB",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00E34E13",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00E36514",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00E3752E",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00E51105",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00E52D95",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00E536E3",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00E55BC2",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00E565A3",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00E57529",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00E60217",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00E604C7",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00E6295F",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00E657C9",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00E659D4",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00E67EE4",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00E70375",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00E735CD",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00E74E74",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00E7568F",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00E800D3",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00E803C5",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00E812B7",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00E81C63",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00E82910",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00E83881",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00E9187A",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00E9233C",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00E963CC",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00E97E3C",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00EA06C2",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00EA2C43",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00EA64AA",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00EA6F57",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00EB2A73",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00EB2B52",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00EB7DFB",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00EC0887",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00EC2B2E",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00EC3795",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00EC4993",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00EC7146",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00ED029F",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00ED3B92",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00EE2926",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00EF5E2B",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00EF60C9",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00F010D2",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00F0759D",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00F10E87",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00F13C4B",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00F2069D",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00F21A01",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00F26603",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00F27F26",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00F31D58",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00F3404A",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00F402CF",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00F43845",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00F45AB2",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00F56DDB",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00F63873",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00F63C0C",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00F70BFB",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00F70F1A",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00F7167D",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00F751AD",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00F77110",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00F812C9",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00F81999",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00F82797",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00F831C9",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00F8469D",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00F94C55",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00F9532A",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00F974D4",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00FC0953",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00FC1A4A",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00FC32BF",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00FC3C84",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00FD0A4D",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00FE09D7",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00FE0C31",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00FE52E5",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00FE7AD8",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00FF01BE",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00FF2EEC",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00FF4F91",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00FF5120",
+                    "__prefix": "w"
+                },
+                {
+                    "_w:val": "00FF7363",
+                    "__prefix": "w"
+                }
+            ],
+            "__prefix": "w"
+        },
+        "mathPr": {
+            "mathFont": {
+                "_m:val": "Cambria Math",
+                "__prefix": "m"
+            },
+            "brkBin": {
+                "_m:val": "before",
+                "__prefix": "m"
+            },
+            "brkBinSub": {
+                "_m:val": "--",
+                "__prefix": "m"
+            },
+            "smallFrac": {
+                "_m:val": "0",
+                "__prefix": "m"
+            },
+            "dispDef": {
+                "__prefix": "m"
+            },
+            "lMargin": {
+                "_m:val": "0",
+                "__prefix": "m"
+            },
+            "rMargin": {
+                "_m:val": "0",
+                "__prefix": "m"
+            },
+            "defJc": {
+                "_m:val": "centerGroup",
+                "__prefix": "m"
+            },
+            "wrapIndent": {
+                "_m:val": "1440",
+                "__prefix": "m"
+            },
+            "intLim": {
+                "_m:val": "subSup",
+                "__prefix": "m"
+            },
+            "naryLim": {
+                "_m:val": "undOvr",
+                "__prefix": "m"
+            },
+            "__prefix": "m"
+        },
+        "themeFontLang": {
+            "_w:val": "ru-RU",
+            "__prefix": "w"
+        },
+        "clrSchemeMapping": {
+            "_w:bg1": "light1",
+            "_w:t1": "dark1",
+            "_w:bg2": "light2",
+            "_w:t2": "dark2",
+            "_w:accent1": "accent1",
+            "_w:accent2": "accent2",
+            "_w:accent3": "accent3",
+            "_w:accent4": "accent4",
+            "_w:accent5": "accent5",
+            "_w:accent6": "accent6",
+            "_w:hyperlink": "hyperlink",
+            "_w:followedHyperlink": "followedHyperlink",
+            "__prefix": "w"
+        },
+        "doNotIncludeSubdocsInStats": {
+            "__prefix": "w"
+        },
+        "shapeDefaults": {
+            "shapedefaults": {
+                "_v:ext": "edit",
+                "_spidmax": "1026",
+                "__prefix": "o"
+            },
+            "shapelayout": {
+                "idmap": {
+                    "_v:ext": "edit",
+                    "_data": "1",
+                    "__prefix": "o"
+                },
+                "_v:ext": "edit",
+                "__prefix": "o"
+            },
+            "__prefix": "w"
+        },
+        "decimalSymbol": {
+            "_w:val": ",",
+            "__prefix": "w"
+        },
+        "listSeparator": {
+            "_w:val": ";",
+            "__prefix": "w"
+        },
+        "docId": {
+            "_w14:val": "6C8329CF",
+            "__prefix": "w14"
+        },
+        "_xmlns:mc": "http://schemas.openxmlformats.org/markup-compatibility/2006",
+        "_xmlns:o": "urn:schemas-microsoft-com:office:office",
+        "_xmlns:r": "http://schemas.openxmlformats.org/officeDocument/2006/relationships",
+        "_xmlns:m": "http://schemas.openxmlformats.org/officeDocument/2006/math",
+        "_xmlns:v": "urn:schemas-microsoft-com:vml",
+        "_xmlns:w10": "urn:schemas-microsoft-com:office:word",
+        "_xmlns:w": "http://schemas.openxmlformats.org/wordprocessingml/2006/main",
+        "_xmlns:w14": "http://schemas.microsoft.com/office/word/2010/wordml",
+        "_xmlns:sl": "http://schemas.openxmlformats.org/schemaLibrary/2006/main",
+        "_mc:Ignorable": "w14",
+        "__prefix": "w"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "Properties": {
+        "Template": "sh_poPfr",
+        "TotalTime": "62",
+        "Pages": "2",
+        "Words": "456",
+        "Characters": "2601",
+        "Application": "Microsoft Office Word",
+        "DocSecurity": "2",
+        "Lines": "21",
+        "Paragraphs": "6",
+        "ScaleCrop": "false",
+        "HeadingPairs": {
+            "vector": {
+                "variant": [
+                    {
+                        "lpstr": {
+                            "__prefix": "vt",
+                            "__text": "Название"
+                        },
+                        "__prefix": "vt"
+                    },
+                    {
+                        "i4": {
+                            "__prefix": "vt",
+                            "__text": "1"
+                        },
+                        "__prefix": "vt"
+                    }
+                ],
+                "_size": "2",
+                "_baseType": "variant",
+                "__prefix": "vt"
+            }
+        },
+        "TitlesOfParts": {
+            "vector": {
+                "lpstr": {
+                    "__prefix": "vt"
+                },
+                "_size": "1",
+                "_baseType": "lpstr",
+                "__prefix": "vt"
+            }
+        },
+        "Company": "",
+        "LinksUpToDate": "false",
+        "CharactersWithSpaces": "3051",
+        "SharedDoc": "false",
+        "HyperlinksChanged": "false",
+        "AppVersion": "14.0000",
+        "_xmlns": "http://schemas.openxmlformats.org/officeDocument/2006/extended-properties",
+        "_xmlns:vt": "http://schemas.openxmlformats.org/officeDocument/2006/docPropsVTypes"
+    }
+}

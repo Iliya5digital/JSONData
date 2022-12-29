@@ -1,0 +1,89 @@
+{
+    "Types": {
+        "Default": [
+            {
+                "_Extension": "rels",
+                "_ContentType": "application/vnd.openxmlformats-package.relationships+xml"
+            },
+            {
+                "_Extension": "xml",
+                "_ContentType": "application/xml"
+            }
+        ],
+        "Override": [
+            {
+                "_PartName": "/word/document.xml",
+                "_ContentType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document.main+xml"
+            },
+            {
+                "_PartName": "/customXml/itemProps1.xml",
+                "_ContentType": "application/vnd.openxmlformats-officedocument.customXmlProperties+xml"
+            },
+            {
+                "_PartName": "/word/numbering.xml",
+                "_ContentType": "application/vnd.openxmlformats-officedocument.wordprocessingml.numbering+xml"
+            },
+            {
+                "_PartName": "/word/styles.xml",
+                "_ContentType": "application/vnd.openxmlformats-officedocument.wordprocessingml.styles+xml"
+            },
+            {
+                "_PartName": "/word/stylesWithEffects.xml",
+                "_ContentType": "application/vnd.ms-word.stylesWithEffects+xml"
+            },
+            {
+                "_PartName": "/word/settings.xml",
+                "_ContentType": "application/vnd.openxmlformats-officedocument.wordprocessingml.settings+xml"
+            },
+            {
+                "_PartName": "/word/webSettings.xml",
+                "_ContentType": "application/vnd.openxmlformats-officedocument.wordprocessingml.webSettings+xml"
+            },
+            {
+                "_PartName": "/word/footnotes.xml",
+                "_ContentType": "application/vnd.openxmlformats-officedocument.wordprocessingml.footnotes+xml"
+            },
+            {
+                "_PartName": "/word/endnotes.xml",
+                "_ContentType": "application/vnd.openxmlformats-officedocument.wordprocessingml.endnotes+xml"
+            },
+            {
+                "_PartName": "/word/header1.xml",
+                "_ContentType": "application/vnd.openxmlformats-officedocument.wordprocessingml.header+xml"
+            },
+            {
+                "_PartName": "/word/header2.xml",
+                "_ContentType": "application/vnd.openxmlformats-officedocument.wordprocessingml.header+xml"
+            },
+            {
+                "_PartName": "/word/header3.xml",
+                "_ContentType": "application/vnd.openxmlformats-officedocument.wordprocessingml.header+xml"
+            },
+            {
+                "_PartName": "/word/footer1.xml",
+                "_ContentType": "application/vnd.openxmlformats-officedocument.wordprocessingml.footer+xml"
+            },
+            {
+                "_PartName": "/word/header4.xml",
+                "_ContentType": "application/vnd.openxmlformats-officedocument.wordprocessingml.header+xml"
+            },
+            {
+                "_PartName": "/word/fontTable.xml",
+                "_ContentType": "application/vnd.openxmlformats-officedocument.wordprocessingml.fontTable+xml"
+            },
+            {
+                "_PartName": "/word/theme/theme1.xml",
+                "_ContentType": "application/vnd.openxmlformats-officedocument.theme+xml"
+            },
+            {
+                "_PartName": "/docProps/core.xml",
+                "_ContentType": "application/vnd.openxmlformats-package.core-properties+xml"
+            },
+            {
+                "_PartName": "/docProps/app.xml",
+                "_ContentType": "application/vnd.openxmlformats-officedocument.extended-properties+xml"
+            }
+        ],
+        "_xmlns": "http://schemas.openxmlformats.org/package/2006/content-types"
+    }
+}
